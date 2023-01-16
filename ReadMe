@@ -1,7 +1,12 @@
-#Inferno Fighters
+# Inferno Fighters
 
-#Brief
-My first CSE project of AUST life when i was in first year second semester(1.2).
+# Details:
+iGraphics: A Wrapper For OpenGL in 2D
+CSE 1200: Software Development-1
+Semester 1.2
+This course credit is 1.5
+It is my first software development project. For this project we created a team. The team contain 3 person 
+We worked in particular section in this project. I worked on enemy rendering
 I coded a simple game in c++ using iGraphics library and use visual studio 2010(recommeded in case want to run) for code editing, compling & running.
 
 
@@ -13,7 +18,6 @@ I coded a simple game in c++ using iGraphics library and use visual studio 2010(
   5.run the project.
 
 For installing visual studio 2010 properly follow the link & checkout the presentantion1.pdf & readme:
-https://drive.google.com/open?id=1lZH-Ni7irLqGFG0JESs2XuEO-H2LN7zw
 
 
 
